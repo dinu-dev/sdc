@@ -1,0 +1,10 @@
+{
+  "name": "josecret/button",
+  "description": "Josecret button component",
+  "type": "josecret-component",
+  "license": "GPL-2.0-or-later",
+  "authors": [{
+    "name": "JoSecret",
+    "email": "jo@da.md"
+  }]
+}
